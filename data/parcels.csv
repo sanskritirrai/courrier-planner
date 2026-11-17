@@ -1,0 +1,9 @@
+parcel_id,customer,location,priority,deadline,weight,value
+P101,Aarav,North,5,10:00,5,500
+P102,Meera,South,3,12:00,8,650
+P103,Ishaan,East,5,09:30,4,450
+P104,Anaya,West,2,14:00,10,700
+P105,Vihaan,Central,4,11:00,6,550
+P106,Diya,North,4,10:30,3,300
+P107,Kabir,East,3,13:00,7,600
+P108,Sara,South,1,15:00,9,400

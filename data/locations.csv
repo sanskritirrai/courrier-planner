@@ -1,0 +1,15 @@
+from,to,distance_km
+Depot,North,4
+Depot,South,7
+Depot,East,5
+Depot,West,8
+Depot,Central,3
+North,East,2
+North,Central,3
+North,West,6
+South,East,6
+South,West,3
+South,Central,5
+East,West,5
+East,Central,2
+West,Central,4
